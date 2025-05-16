@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dylan Jacquet</h1>
 <h3 align="center">A passionate Flutter Developer from France</h3>
 
-- 🔭 I’m currently working on **Site**
+- 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **Vite and Next.js**
 
